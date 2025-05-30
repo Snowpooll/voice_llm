@@ -1,0 +1,7 @@
+# OS固有の隠しファイル
+.DS_Store
+
+# Pythonキャッシュ関連
+__pycache__/
+*.py[cod]
+*$py.class

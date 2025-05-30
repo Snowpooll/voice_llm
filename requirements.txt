@@ -1,0 +1,8 @@
+ollama
+numpy
+sounddevice
+faster-whisper
+pyttsx3
+emoji
+torch
+configparser
